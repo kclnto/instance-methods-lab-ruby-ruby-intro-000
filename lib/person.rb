@@ -5,4 +5,8 @@ class Person
   end
 
 
+  def walk
+  end
+
+
 end
